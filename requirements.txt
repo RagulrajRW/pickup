@@ -1,7 +1,6 @@
 absl-py==2.1.0
 accelerate @ git+https://github.com/huggingface/accelerate@7531e8c13ea42be2f1f4f8b27cecd28810a05d52
 agate==1.7.1
-aiofiles @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f56ag8l7kr/croot/aiofiles_1683773599608/work
 aiohappyeyeballs==2.4.3
 aiohttp==3.10.10
 aioice==0.9.0
